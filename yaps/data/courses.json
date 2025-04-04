@@ -1,0 +1,27 @@
+[
+    {
+      "id": "course1",
+      "collegeId": "college1",
+      "code": "CS101",
+      "name": "Introduction to Computer Science"
+    },
+    {
+      "id": "course2",
+      "collegeId": "college1",
+      "code": "MATH204",
+      "name": "Calculus II"
+    },
+    {
+      "id": "course3",
+      "collegeId": "college2",
+      "code": "BIO110",
+      "name": "Biology Fundamentals"
+    },
+    {
+      "id": "course4",
+      "collegeId": "college2",
+      "code": "PHYS201",
+      "name": "Physics I"
+    }
+  ]
+  

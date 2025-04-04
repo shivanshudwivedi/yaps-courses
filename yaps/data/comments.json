@@ -1,0 +1,23 @@
+[
+    {
+      "id": "comment1",
+      "courseId": "course1",
+      "text": "Does anyone understand the homework?",
+      "timestamp": "2025-04-04T12:30:00Z",
+      "upvotes": 5
+    },
+    {
+      "id": "comment2",
+      "courseId": "course1",
+      "text": "The professor went too fast today. Did anyone take good notes?",
+      "timestamp": "2025-04-04T14:15:00Z",
+      "upvotes": 8
+    },
+    {
+      "id": "comment3",
+      "courseId": "course2",
+      "text": "That integral problem was impossible!",
+      "timestamp": "2025-04-03T19:45:00Z",
+      "upvotes": 12
+    }
+  ]

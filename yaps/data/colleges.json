@@ -1,0 +1,44 @@
+[
+    {
+      "id": "college1",
+      "name": "Example University"
+    },
+    {
+      "id": "college2",
+      "name": "Demo College"
+    },
+    {
+      "id": "college3",
+      "name": "State University"
+    },
+    {
+      "id": "college4",
+      "name": "Tech Institute"
+    }
+    ,
+    {
+      "id": "college5",
+      "name": "City College"
+    }
+    ,
+    {
+      "id": "college6",
+      "name": "National University"
+    }
+    ,
+    {
+      "id": "college7",
+      "name": "Global University"
+    }
+    ,
+    {
+      "id": "college8",
+      "name": "Community College"
+    }
+    ,
+    {
+      "id": "college9",
+      "name": "Private University"
+    }
+  ]
+  

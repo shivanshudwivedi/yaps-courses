@@ -1,0 +1,23 @@
+[
+    {
+      "id": "confession1",
+      "collegeId": "college1",
+      "text": "I've never actually read any of the assigned books",
+      "timestamp": "2025-04-04T14:22:00Z",
+      "upvotes": 12
+    },
+    {
+      "id": "confession2",
+      "collegeId": "college1",
+      "text": "I'm in my senior year and I still don't know where the library is",
+      "timestamp": "2025-04-03T11:18:00Z",
+      "upvotes": 24
+    },
+    {
+      "id": "confession3",
+      "collegeId": "college2",
+      "text": "I pretend to take notes but I'm actually just drawing",
+      "timestamp": "2025-04-02T10:05:00Z",
+      "upvotes": 18
+    }
+  ]
